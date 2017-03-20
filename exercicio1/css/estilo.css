@@ -1,0 +1,36 @@
+﻿h1 {
+	color: red;
+	font-family: times new roman;
+	font-style: italic;
+	text-align: center;
+	font-weight: bold;
+}
+p.paragrafo1 {
+	font-size: 30px;               
+	color: blue;
+	font-family: Arial;
+	text-align: justify;
+}
+p.paragrafo2 {
+	font-size: 40px;               
+	color: green;
+	font-family: times new roman;
+	font-style: italic;
+	font-weight: bold;
+	text-align: left;
+}
+p.paragrafo3 {
+	font-size: 20px;               
+	color: gray;
+	font-family: comic sans MS;
+	text-align: left;
+	text-decoration: line-through;
+}
+p.paragrafo4 {
+	font-size: 10px;               
+	color: maroon;
+	font-family: verdana;
+	font-weight: bold;
+	text-align: center;
+	text-decoration: underline;
+}
