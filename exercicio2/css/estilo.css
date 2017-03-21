@@ -1,1 +1,36 @@
-﻿
+﻿body{
+	background: black;
+	color: white;
+	font-family: Consolas;
+}
+.corazul{
+	color:#00c8f1;
+}
+.neutro{
+	color:#f7f8f8;
+}
+.corverm{
+	color:red;
+	font-weight: bold;
+}
+.coramarela{
+	color:#eece00;
+}
+.corrosa{
+	color:#be00d1;
+}
+#coment{
+	color:#a4a4a4;
+	font-style: italic;
+}
+.texto{
+	color:#d0d0d0;
+}
+
+#externo{
+	text-indent: 20px;
+	line-height: 50%;
+}
+.fs{
+	font-weight: bold;
+}
